@@ -13,6 +13,13 @@ This app is to flatten those quote chains and show the chain in a user-friendly 
 
 
 
-## 2. Change Log
+## 2. TODO
+
+- Add parsing: url-to-status_id
+
+- Add frontend: Flask & Bootstrap(maybe)
+
+
+## 3. Change Log
 
 v 0.1.0 Initial version.
